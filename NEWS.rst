@@ -2,6 +2,15 @@
 Release Notes
 =============
 
+pkgdev 0.2.13 (unreleased)
+---------------------------
+
+Packaging
+~~~~~~~~~~
+
+- ``pytest >= 9.0`` is now required
+
+
 pkgdev 0.2.12 (2025-06-14)
 -------------------------
 
